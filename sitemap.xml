@@ -22,18 +22,6 @@
   </url>
   
   <url>
-    <loc>https://houmyt.github.io/tags/</loc>
-    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://houmyt.github.io/tags/scene/</loc>
-    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://houmyt.github.io/posts/drama-marrige-/</loc>
     <lastmod>2019-09-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -70,6 +58,11 @@
   
   <url>
     <loc>https://houmyt.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://houmyt.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
